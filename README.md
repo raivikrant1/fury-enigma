@@ -1,1 +1,1 @@
-# furry-enigma
+# Furry Enigma
