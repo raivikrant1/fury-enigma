@@ -1,5 +1,8 @@
 # Furry Enigma
 
+### Leave management system
+https://github.com/timeoff-management/application
+
 ### How to automate issue insertion?
 https://github.com/gavinr/github-csv-tools
 
