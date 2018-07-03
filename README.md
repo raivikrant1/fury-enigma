@@ -2,7 +2,7 @@ Welcome to **Furry Enigma**, here you will find useful links and resources to re
 Browse it, read it and collaborate in it if you want to add something from your side.
 
 
-### How to become a great developer:
+### To become a great developer, have:
 * **Perseverance** — To find the solution come what may
 * **Practice** — Keep honing their skills as a continual activity
 * **Proactiveness** — a deep ability to connect details to the larger picture
