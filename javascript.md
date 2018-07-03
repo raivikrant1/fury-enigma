@@ -1,4 +1,7 @@
 
+### Few javascript project guidelines tips
+https://github.com/wearehive/project-guidelines
+
 ### Checklist for frontend developers
 https://frontendchecklist.io/
 
